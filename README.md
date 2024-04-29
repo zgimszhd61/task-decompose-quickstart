@@ -438,9 +438,7 @@ ${task_description}
 ${task_description}
 
 解决方案：
-```
 ${solution}
-```
 
 测试结果：
 ${result}
