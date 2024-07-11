@@ -1,4 +1,13 @@
 # task-decompose-quickstart
+
+## 分解成子任务
+```
+将下面问题分解成1-3个子任务
+------
+常用的图像分类算法如AlexNet、VGG、ResNet，在鉴黄场景有什么特点和区别？
+```
+<img width="798" alt="image" src="https://github.com/zgimszhd61/task-decompose-quickstart/assets/114722053/5a3fe7c1-d1d1-477d-a9d5-33e0cd37e023">
+
 ## 下面是一个prompt-task_decompose()
 ```
 您需要将一个复杂的用户问题分解为一些简单的子任务，并让模型逐步执行。
